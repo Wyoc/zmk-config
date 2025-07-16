@@ -58,6 +58,16 @@
             bindings = <&kp FR_A_GRAVE>;
             key-positions = <1 2>;
         };
+
+        u_accent {
+            bindings = <&kp FR_U_GRAVE>;
+            key-positions = <9 10>;
+        };
+
+        c_cedillla {
+            bindings = <&kp FR_C_CEDILLA>;
+            key-positions = <31 32>;
+        };
     };
 
     keymap {
