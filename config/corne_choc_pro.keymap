@@ -117,10 +117,10 @@
         Numbers {
             display-name = "EXTRA 1";
             bindings = <
-&none  &none  &none  &none  &none  &none  &none  &none      &kp FR_SLASH  &kp FR_N7  &kp FR_N8  &kp KP_NUMBER_9  &none  &none
-&none  &none  &none  &none  &none  &none  &none  &kp EQUAL  &kp FR_PLUS   &kp FR_N4  &kp FR_N5  &kp FR_N6        &none  &none
-&none  &none  &none  &none  &none  &none                    &kp FR_MINUS  &kp FR_N1  &kp FR_N2  &kp FR_N3        &none  &none
-                     &none  &none  &none                    &none         &kp FR_N0  &none
+&none  &none  &none  &none  &none  &none  &none  &none      &kp FR_SLASH   &kp FR_N7  &kp FR_N8  &kp FR_N9  &none  &none
+&none  &none  &none  &none  &none  &none  &none  &kp EQUAL  &kp FR_PLUS    &kp FR_N4  &kp FR_N5  &kp FR_N6  &none  &none
+&none  &none  &none  &none  &none  &none                    &kp FR_MINUS   &kp FR_N1  &kp FR_N2  &kp FR_N3  &none  &none
+                     &none  &none  &none                    &kp FR_PERIOD  &kp FR_N0  &none
             >;
         };
 
