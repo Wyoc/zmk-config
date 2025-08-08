@@ -68,6 +68,11 @@
             bindings = <&kp FR_C_CEDILLA>;
             key-positions = <31 32>;
         };
+
+        to_default {
+            bindings = <&to 0>;
+            key-positions = <14 19>;
+        };
     };
 
     keymap {
